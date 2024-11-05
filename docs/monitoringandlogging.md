@@ -1,5 +1,3 @@
----
-
 ## Monitoring and Logging in Google Cloud Platform for VM Instances
 
 ### Monitoring
